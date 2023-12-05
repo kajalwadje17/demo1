@@ -2,33 +2,36 @@
 Ans:- * Cloud computing means storing and accesing data and programs over the 
        internet instead of your computers hard drive.
       * Delivery of different services through the internet.
-        
+      * cloud computing is a technology that allows users to access and use computing
+        resources (such as servers, storage, databases, networking, software ) over
+        the internet, typically through a service provider.
 
 (2) Deployment Model in cloud ?
-Ans:- * In cloud computing a deployment module refers to a package or unit of software
-       that is deployed and run on  cloud infrastruture .
+Ans:- Public
+      Private
+      Community
+      Hybrid
 
 
 
 (3) Service Model in cloud ?
-Ans:- * It can include services like storage, computing power, networking,database,
-         and more.
+Ans:- (1) Infrastructure as a service (laaS):-  
+         * Provide virtualized computing resources over the internet.
+         * Users have control over the operating system, applications, 
+           and some networking components.
+         * Examples:- Amazon EC2, Microsoft Azure Virtual Machines.
+      (2) Platform as a Service (PaaS):-
+         * Users focus on application development without managing the
+           underlying infrastrututre.
+         * Examples:- Google App Engine, Microsoft Azure App Service.
+      (3) Software as a Service (Saas):-
+         * Delivers software applications over the internet on a subcription
+           basis.
+         * Examples:- Google Workspace, Microsoft 365, Salesforce.
+            
 
 (4) Architecture of Cloud Computing ?
-Ans:- * The architecture of cloud computing typically involves a combination of   
-        different components.
-      * At a high level, it includes the following Layer.
-      1. * Infrastructure as a Service (IaaS): This layer provides virtualized computing
-         resources like virtual machines, storage, and networks.
-         * It gives you the flexibility to manage and control the underlying infrastructure. 
-      2. * Platform as a Service (PaaS): This layer provides a platform for developing, testing, 
-           and deploying applications.
-         * It includes tools, frameworks, and runtime environments to simplify the application 
-           development process. 
-      3. * Software as a Service (SaaS): This layer offers ready-to-use software applications that 
-           are accessible over the internet.
-         * Examples include email services, customer relationship management (CRM) systems, and 
-           collaboration tools. 
+Ans:- 
 
 (5) AWS Global Infrastructure Count ?
 Ans:- * AWS has a vast global infrastructure with data centers located in various regions 
