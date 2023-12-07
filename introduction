@@ -7,12 +7,34 @@ Ans:- * Cloud computing means storing and accesing data and programs over the
         the internet, typically through a service provider.
 
 (2) Deployment Model in cloud ?
-Ans:- Public
-      Private
-      Community
-      Hybrid
-
-
+Ans:-(1) Public:- Resources are shared among multiple customers.
+       Advantages :- (1) Cost Efficiency
+                     (2) Global Accessibility
+                     (3)
+     Disadvatanges:- (1) Security Concerns
+                     (2) Limited Customization
+                     (3) Dependence on Internet
+    (2)  Private:- Managed and used by the company.
+      Advantages:- (1) Enhance Security
+                   (2) Customization
+                   (3) Compliance    
+   Disadvatages:-  (1) Costly
+                   (2) Complexity
+                   (3) Limited Scalability
+     (3) Community:- Infrastruture is shared among organizations with similar interests.
+       Advantages:- (1) Collaboration
+                    (2) Cost sharing
+                    (3) Customization
+    Disadvantages:- (1) LImited Independence
+                    (2) Potential Resource
+                    (3) Coordination Challenges
+      (4) Hybrid:- Combination of public and private clouds.
+    Advantages:-  (1) Flexibility
+                  (2) Data Optimization
+                  (3) Disater Recovery
+   Disadvantages:- (1) Integration Challenges
+                   (2) Management Complexity
+                   (3) Data Security Concern
 
 (3) Service Model in cloud ?
 Ans:- (1) Infrastructure as a service (laaS):-  
