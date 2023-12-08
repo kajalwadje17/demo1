@@ -53,8 +53,21 @@ Ans:- (1) Infrastructure as a service (laaS):-
             
 
 (4) Architecture of Cloud Computing ?
-Ans:- 
-
+Ans:- 1. Frontend
+      2. Backend
+  Frontend:- It contains all the user interfaces and application which are 
+             used by the client to access the cloud computing services.
+           * Client Infrastructure
+  Backend:- It contains resources as well as manages the resources and provides security
+             mechanisms.
+           * Application
+           * Service
+           * Runtime
+           * Storage
+           * Infrastruture
+           * Management
+           * Security
+           
 (5) AWS Global Infrastructure Count ?
 Ans:- * AWS has a vast global infrastructure with data centers located in various regions 
         around the world. 
