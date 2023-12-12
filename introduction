@@ -88,21 +88,7 @@ Ans:- * We use regions in AWS to ensure high availability, fault tolerance, and 
         flexibility to optimize performance and meet our specific business needs.
 
 (7) What is service and why we use resources ?
-ans - 1. * In the context of cloud computing, a service refers to a specific functionality or 
-           capability that is provided by a cloud provider, such as AWS. 
-         * These services can include computing power, storage, networking, databases, machine 
-           learning, and more. 
-         * They are designed to be accessible over the internet and can be used to build, deploy, and
-           manage applications and infrastructure in the cloud.
-       2.* On the other hand, resources in the context of AWS are the individual components or entitie 
-           that you create and manage within the AWS environment. 
-         *  These resources can include virtual machines (EC2 instances), storage buckets (S3 buckets), 
-           databases (RDS instances), and more.
-         * Each resource has its own characteristics, configurations, and settings that you can control 
-           and manage based on your requirements.
-      3. * So, in simple terms, services are the functionalities provided by AWS, while resources are 
-           the individual components or entities that you create and manage within those services.
-         * It's like using different tools (services) to create and manage various objects (resources) 
-           in the AWS cloud.
+Ans:- * Each service is designed to perform a specific function, and users can leverage these services
+        to build and run applications, store and retrive data, manage security, and more. 
 
         
