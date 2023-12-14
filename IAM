@@ -50,4 +50,9 @@ Ans:- Yes, can create IAM policies using JSON code. IAM policies are expressed a
 (11) If one user has created it by defualt, which permission has been assigned to that user ?
 Ans:- 
 
+(12) What is dominatory policy ?
+Ans:- Dominatory policy refers to a policy or approach that is characterized by dominance or control.
+
+(13) What is dominator policy ?
+Ans:- 
     
