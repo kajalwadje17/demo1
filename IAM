@@ -3,9 +3,10 @@ Ans:- 1. users
       2. groups
       3. roles
       4. policies
+
  (2) Deployment model in IAM ?
 Ans:- 1. On-Premises IAM
-      2. CLoud-based IAM
+      2. Cloud-based IAM
       3. Hybrid IAM
 
  (3) Identities in IAM ?
@@ -42,10 +43,7 @@ Ans:- We attach resource based policies directly to the resource itself such as 
       resource. 
 
 (10) Can we be able to create Policy via json code ?
-Ans:- Yes, can create IAM policies using JSON code. IAM policies are expressed as JSON
-      documents that define the permissions for IAM users, groups, or roles. The basic
-      structure of an IAM policy includes a set of statements, each specifying actions, 
-      resources, and conditions.
+Ans:- 
 
 (11) If one user has created it by defualt, which permission has been assigned to that user ?
 Ans:- 
@@ -53,6 +51,21 @@ Ans:-
 (12) What is dominatory policy ?
 Ans:- Dominatory policy refers to a policy or approach that is characterized by dominance or control.
 
-(13) What is dominator policy ?
+(13) What is ARN ? What are the fields in ARN ?
+Ans:- ARN stands for Amazon Resource Name. It is unique identifier assigned to resources in AWS.
+      *Fields In ARN:-
+       a) aws:- The partition which is usually "aws" for standard AWS service.
+
+       b) service:- The service namespace that identifies the AWS service.
+          e.g:- S3, EC2, IAM
+
+       c) region:- AWS region code where the resource is located.
+          e.g:- us-east-1, eu-west-2
+
+       d) account-id:- AWS account ID that owns the resource.
+
+       e) resource:- The specific identifier for the resource within the service
+          e.g:- instanceID, bucket name
+(14) How many types of ARN Partition ?
 Ans:- 
     
