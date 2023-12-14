@@ -43,7 +43,7 @@ Ans:- We attach resource based policies directly to the resource itself such as 
       resource. 
 
 (10) Can we be able to create Policy via json code ?
-Ans:- 
+Ans:- yes
 
 (11) If one user has created it by defualt, which permission has been assigned to that user ?
 Ans:- 
